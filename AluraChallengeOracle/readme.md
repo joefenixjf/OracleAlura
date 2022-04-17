@@ -1,4 +1,4 @@
-# H1 Desafio AluraOracle
+# Desafio AluraOracle
 
 Projeto movido para repositório próprio
 
